@@ -1,0 +1,3 @@
+C:/Users/bunje/CLionProjects/Book repository/cmake-build-debug/CMakeFiles/Book_repository.dir
+C:/Users/bunje/CLionProjects/Book repository/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bunje/CLionProjects/Book repository/cmake-build-debug/CMakeFiles/rebuild_cache.dir
