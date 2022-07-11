@@ -134,7 +134,7 @@ void authorPrint(){
     }
 
     printf("Enter author's name: ");
-    scanf(" %49[^\n]", author);
+    scanf(" %29[^\n]", author);
     printf("\n");
     fread(sBook,sizeof(BOOK),n,fp);
     for(int i=0;i<n;i++){
