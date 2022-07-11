@@ -2,7 +2,7 @@
 #define DATATYPE_H
 
 typedef struct book{
-    char book[50];
+    char book[30];
     char author[30];
     char genre[30];
     char year[30];
