@@ -310,13 +310,13 @@ void bookSearch(){
             printf("\nGenre: %s", (sBook+i)->genre);
             printf("\nYear: %s\n\n", (sBook+i)->year);
             flag=1;
-            printf("Album is available!\n");
+            printf("Book is available!\n");
         }
     }
 
 
     if(flag==0){
-        printf("Searched album doesn't exist in repository!");
+        printf("Searched book doesn't exist in repository!");
     }
     fclose(fp);
     free(sBook);
